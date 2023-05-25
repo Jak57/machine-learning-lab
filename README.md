@@ -8,3 +8,7 @@ Machine Learning Lab
 * Lab4: K-Nearest Neighbour (KNN)
 * Lab5: Evaluation Metrics
 * Lab6: Sentiment Analysis
+
+
+# Lab 06:
+* Dataset: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?select=IMDB+Dataset.csv)
