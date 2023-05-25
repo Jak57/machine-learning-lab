@@ -12,3 +12,4 @@ Machine Learning Lab
 
 # Lab 06: Sentiment Analysis
 * Dataset: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?select=IMDB+Dataset.csv)
+* Tutorial: https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
