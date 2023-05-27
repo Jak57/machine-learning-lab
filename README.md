@@ -11,6 +11,7 @@ Machine Learning Lab
 
 
 # Lab 05: Evaluation Metrics used in Machine Learning
+* Dataset: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 * Tutorial: https://www.kaggle.com/code/pythonafroz/evaluation-metrics-used-in-machine-learning
 
 
