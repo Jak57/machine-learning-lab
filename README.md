@@ -8,6 +8,8 @@ Machine Learning Lab
 * Lab4: K-Nearest Neighbour (KNN)
 * Lab5: Evaluation Metrics
 * Lab6: Sentiment Analysis
+* Linear Regression
+* KMeans
 
 
 # Lab 05: Evaluation Metrics used in Machine Learning
