@@ -11,12 +11,12 @@ Machine Learning Lab
 * Lab7: Linear Regression
 * Lab8: KMeans
 
-# Lab1: Logistic Regression
+# Lab 01: Logistic Regression
 * https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 * https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
 * https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 
-# Lab 05: Evaluation Metrics used in Machine Learning
+# Lab 05: Evaluation Metrics Used in Machine Learning
 * Dataset: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 * Tutorial: https://www.kaggle.com/code/pythonafroz/evaluation-metrics-used-in-machine-learning
 
