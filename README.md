@@ -21,6 +21,7 @@ Machine Learning Lab
 
 # Lab3: Decision Tree and Random Forest
 * https://www.tutorialspoint.com/scikit_learn/scikit_learn_decision_trees.htm
+* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 # Lab 05: Evaluation Metrics Used in Machine Learning
 * Dataset: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
