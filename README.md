@@ -24,3 +24,11 @@ Machine Learning Lab
 # Lab 06: Sentiment Analysis
 * Dataset: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?select=IMDB+Dataset.csv)
 * Tutorial: https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
+
+
+--------------------------------------------------
+# Machine Learning Resources
+* https://github.com/rasbt/python-machine-learning-book-3rd-edition
+* https://cs229.stanford.edu/
+* [CS229 Final Project Spring 2023 public](https://docs.google.com/document/d/1_VKI_hCQ3zj5SaPY_-Tf3hB0wjeKmF_51DYyMk13mTw/edit)
+* https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&ab_channel=SebastianRaschka  Sebastian Raschka ML playlist
