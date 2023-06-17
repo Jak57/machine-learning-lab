@@ -17,7 +17,10 @@ Machine Learning Lab
 * https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 
 # Lab 02: Support Vector Machine
-* https://www.tutorialspoint.com/scikit_learn/scikit_learn_support_vector_machines.htm 
+* https://www.tutorialspoint.com/scikit_learn/scikit_learn_support_vector_machines.htm
+
+# Lab3: Decision Tree and Random Forest
+* https://www.tutorialspoint.com/scikit_learn/scikit_learn_decision_trees.htm
 
 # Lab 05: Evaluation Metrics Used in Machine Learning
 * Dataset: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
