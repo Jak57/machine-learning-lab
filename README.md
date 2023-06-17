@@ -16,6 +16,9 @@ Machine Learning Lab
 * https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
 * https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 
+# Lab 02: Support Vector Machine
+* https://www.tutorialspoint.com/scikit_learn/scikit_learn_support_vector_machines.htm 
+
 # Lab 05: Evaluation Metrics Used in Machine Learning
 * Dataset: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 * Tutorial: https://www.kaggle.com/code/pythonafroz/evaluation-metrics-used-in-machine-learning
